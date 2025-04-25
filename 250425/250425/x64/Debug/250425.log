@@ -1,0 +1,4 @@
+﻿  main1.cpp
+C:\Study\SesacStudy\250425\250425\main1.cpp(20,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Study\SesacStudy\250425\250425\main1.cpp(22,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  250425.vcxproj -> C:\Study\SesacStudy\250425\x64\Debug\250425.exe

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Study\\SesacStudy\\250428\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8081207B-9003-4F88-A40C-38DC700D0CFE}|250428\\250428.vcxproj|C:\\Study\\SesacStudy\\250428\\250428\\main3cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8081207B-9003-4F88-A40C-38DC700D0CFE}|250428\\250428.vcxproj|solutionrelative:250428\\main3cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8081207B-9003-4F88-A40C-38DC700D0CFE}|250428\\250428.vcxproj|C:\\Study\\SesacStudy\\250428\\250428\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8081207B-9003-4F88-A40C-38DC700D0CFE}|250428\\250428.vcxproj|solutionrelative:250428\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8081207B-9003-4F88-A40C-38DC700D0CFE}|250428\\250428.vcxproj|C:\\Study\\SesacStudy\\250428\\250428\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8081207B-9003-4F88-A40C-38DC700D0CFE}|250428\\250428.vcxproj|solutionrelative:250428\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8081207B-9003-4F88-A40C-38DC700D0CFE}|250428\\250428.vcxproj|C:\\Study\\SesacStudy\\250428\\250428\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8081207B-9003-4F88-A40C-38DC700D0CFE}|250428\\250428.vcxproj|solutionrelative:250428\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main3cpp.cpp",
+              "DocumentMoniker": "C:\\Study\\SesacStudy\\250428\\250428\\main3cpp.cpp",
+              "RelativeDocumentMoniker": "250428\\main3cpp.cpp",
+              "ToolTip": "C:\\Study\\SesacStudy\\250428\\250428\\main3cpp.cpp",
+              "RelativeToolTip": "250428\\main3cpp.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T06:44:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main1.cpp",
+              "DocumentMoniker": "C:\\Study\\SesacStudy\\250428\\250428\\main1.cpp",
+              "RelativeDocumentMoniker": "250428\\main1.cpp",
+              "ToolTip": "C:\\Study\\SesacStudy\\250428\\250428\\main1.cpp",
+              "RelativeToolTip": "250428\\main1.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T05:45:55.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main2.cpp",
+              "DocumentMoniker": "C:\\Study\\SesacStudy\\250428\\250428\\main2.cpp",
+              "RelativeDocumentMoniker": "250428\\main2.cpp",
+              "ToolTip": "C:\\Study\\SesacStudy\\250428\\250428\\main2.cpp",
+              "RelativeToolTip": "250428\\main2.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T05:04:04.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Study\\SesacStudy\\250428\\250428\\main.cpp",
+              "RelativeDocumentMoniker": "250428\\main.cpp",
+              "ToolTip": "C:\\Study\\SesacStudy\\250428\\250428\\main.cpp",
+              "RelativeToolTip": "250428\\main.cpp",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAADkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T01:00:07.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

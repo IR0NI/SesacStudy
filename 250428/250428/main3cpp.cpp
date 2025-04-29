@@ -15,57 +15,91 @@ while문을 이용하여 무한루프를 돌며 5x5로 출력하고 숫자를 입력받는다.
 
 void main()
 {
-	srand(time(0));
-	rand();
+    srand(time(0));
+    rand();
 
-	int Number[25] = {};
-	bool Open[25] = {};
-	int Input = -1;
-	int LineCount = 0;
-	
-	for (int i = 0; i < 25; i++)
-	{
-		Number[i] = i + 1;
-	}
+    int Number[25] = {};
+    bool Open[25] = {};
+    int Input = -1;
+    int LineCount = 0;
+    int StarCount = 0;
+    for (int i = 0; i < 25; i++)
+    {
+        Number[i] = i + 1;
+    }
 
-	for (int i = 0; i < 100; i++)
-	{
-		int Index1 = rand() % 25;
-		int Index2 = rand() % 25;
+    for (int i = 0; i < 100; i++)
+    {
+        int Index1 = rand() % 25;
+        int Index2 = rand() % 25;
 
-		int	Temp = Number[Index1];
-		Number[Index1] = Number[Index2];
-		Number[Index2] = Temp;
-	}
-	while (true)
-	{
-			for (int i = 0; i < 5; i++)
-			{
-				for (int j = 0; j < 5; j++)
-				{
-					if (!Open[i * 5 + j])
-						printf("%d\t", Number[i * 5 + j]);
-					else
-						printf("*\t");
+        int   Temp = Number[Index1];
+        Number[Index1] = Number[Index2];
+        Number[Index2] = Temp;
+    }
+    while (true)
+    {
+        LineCount = 0;
+        for (int i = 0; i < 5; i++)
+        {
+            for (int j = 0; j < 5; j++)
+            {
+                if (!Open[i * 5 + j])
+                    printf("%d\t", Number[i * 5 + j]);
+                else
+                    printf("*\t");
 
-				}
-				printf("\n");
-			}
-			printf("숫자를 입력하세요 : ");
-			scanf_s("%d", &Input);
-			if (Input == 0)
-				break;
-			else if (Input < 0 || Input > 25)
-				continue;
+            }
+            printf("\n");
+        }
+        printf("숫자를 입력하세요 : ");
+        scanf_s("%d", &Input);
+        if (Input == 0)
+            break;
+        else if (Input < 0 || Input > 25)
+            continue;
 
-			for (int i = 0; i < 25; ++i)
-			{
-				if (i == Number[Input])
-				{
-					Open[i] = true;
-				}
-			}
-			
-	}
+        for (int i = 0; i < 25; ++i)
+        {
+            if (Input == Number[i])
+            {
+                Open[i] = true;
+            }
+        }
+
+        for (int i = 0; i < 5; i++)
+        {
+            StarCount = 0;
+            for (int j = 0; j < 5; j++)
+            {
+                if (Open[i * 5 + j])
+                    StarCount++;
+                if (StarCount >= 5)
+                    LineCount++;
+            }
+        }
+        for (int j = 0; j < 5; j++)
+        {
+            StarCount = 0;
+            for (int i = 0; i < 5; i++)
+            {
+                if (Open[i * 5 + j])
+                    StarCount++;
+                if (StarCount >= 5)
+                    LineCount++;
+            }
+        }
+        if (Open[0] && Open[6] && Open[12] && Open[18] && Open[24])
+            LineCount++;
+        if (Open[4] && Open[8] && Open[12] && Open[16] && Open[20])
+            LineCount++;
+        printf("줄갯수 %d\n", LineCount);
+        if (LineCount >= 5)
+        {
+            printf("게임클리어");
+            break;
+        }
+
+    }
 
 }

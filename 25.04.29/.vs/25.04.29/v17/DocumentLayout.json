@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Study\\SesacStudy\\25.04.29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB758E2-BA97-46EF-AE9E-3592416FB7FD}|25.04.29\\25.04.29.vcxproj|C:\\Study\\SesacStudy\\25.04.29\\25.04.29\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FB758E2-BA97-46EF-AE9E-3592416FB7FD}|25.04.29\\25.04.29.vcxproj|solutionrelative:25.04.29\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB758E2-BA97-46EF-AE9E-3592416FB7FD}|25.04.29\\25.04.29.vcxproj|C:\\Study\\SesacStudy\\25.04.29\\25.04.29\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FB758E2-BA97-46EF-AE9E-3592416FB7FD}|25.04.29\\25.04.29.vcxproj|solutionrelative:25.04.29\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main1.cpp",
+              "DocumentMoniker": "C:\\Study\\SesacStudy\\25.04.29\\25.04.29\\main1.cpp",
+              "RelativeDocumentMoniker": "25.04.29\\main1.cpp",
+              "ToolTip": "C:\\Study\\SesacStudy\\25.04.29\\25.04.29\\main1.cpp",
+              "RelativeToolTip": "25.04.29\\main1.cpp",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T02:28:17.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Study\\SesacStudy\\25.04.29\\25.04.29\\main.cpp",
+              "RelativeDocumentMoniker": "25.04.29\\main.cpp",
+              "ToolTip": "C:\\Study\\SesacStudy\\25.04.29\\25.04.29\\main.cpp",
+              "RelativeToolTip": "25.04.29\\main.cpp",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAowGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T01:05:50.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

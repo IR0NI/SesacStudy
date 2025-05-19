@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lecture\\Sac7\\C\\250509\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2983ED2-712E-4130-AFF3-89840EB02CDE}|250509\\250509.vcxproj|E:\\Lecture\\Sac7\\C\\250509\\250509\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2983ED2-712E-4130-AFF3-89840EB02CDE}|250509\\250509.vcxproj|solutionrelative:250509\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2983ED2-712E-4130-AFF3-89840EB02CDE}|250509\\250509.vcxproj|E:\\Lecture\\Sac7\\C\\250509\\250509\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2983ED2-712E-4130-AFF3-89840EB02CDE}|250509\\250509.vcxproj|solutionrelative:250509\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main1.cpp",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250509\\250509\\main1.cpp",
+              "RelativeDocumentMoniker": "250509\\main1.cpp",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250509\\250509\\main1.cpp",
+              "RelativeToolTip": "250509\\main1.cpp",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv0YAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T06:17:15.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250509\\250509\\main.cpp",
+              "RelativeDocumentMoniker": "250509\\main.cpp",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250509\\250509\\main.cpp",
+              "RelativeToolTip": "250509\\main.cpp",
+              "ViewState": "AQIAANAAAAAAAAAAAAAYwIUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T01:23:44.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

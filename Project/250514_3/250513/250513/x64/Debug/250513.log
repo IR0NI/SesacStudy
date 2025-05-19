@@ -1,0 +1,11 @@
+﻿  Battle.cpp
+E:\Lecture\Sac7\C\250513\250513\Battle.cpp(119,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\Lecture\Sac7\C\250513\250513\Battle.cpp(120,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameManager.cpp
+  Item.cpp
+  ObjectManager.cpp
+  Player.cpp
+  Store.cpp
+  StoreManager.cpp
+  코드를 생성하고 있습니다...
+  250513.vcxproj -> E:\Lecture\Sac7\C\250513\x64\Debug\250513.exe

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lecture\\Sac7\\C\\250429\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9BDA51-7299-44DF-932B-9F0997B46C51}|250429\\250429.vcxproj|E:\\Lecture\\Sac7\\C\\250429\\250429\\main3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F9BDA51-7299-44DF-932B-9F0997B46C51}|250429\\250429.vcxproj|solutionrelative:250429\\main3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9BDA51-7299-44DF-932B-9F0997B46C51}|250429\\250429.vcxproj|E:\\Lecture\\Sac7\\C\\250429\\250429\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F9BDA51-7299-44DF-932B-9F0997B46C51}|250429\\250429.vcxproj|solutionrelative:250429\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9BDA51-7299-44DF-932B-9F0997B46C51}|250429\\250429.vcxproj|E:\\Lecture\\Sac7\\C\\250429\\250429\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F9BDA51-7299-44DF-932B-9F0997B46C51}|250429\\250429.vcxproj|solutionrelative:250429\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9BDA51-7299-44DF-932B-9F0997B46C51}|250429\\250429.vcxproj|E:\\Lecture\\Sac7\\C\\250429\\250429\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F9BDA51-7299-44DF-932B-9F0997B46C51}|250429\\250429.vcxproj|solutionrelative:250429\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main3.cpp",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250429\\250429\\main3.cpp",
+              "RelativeDocumentMoniker": "250429\\main3.cpp",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250429\\250429\\main3.cpp",
+              "RelativeToolTip": "250429\\main3.cpp",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAowEkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T06:29:58.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main2.cpp",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250429\\250429\\main2.cpp",
+              "RelativeDocumentMoniker": "250429\\main2.cpp",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250429\\250429\\main2.cpp",
+              "RelativeToolTip": "250429\\main2.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowEwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T05:23:34.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main1.cpp",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250429\\250429\\main1.cpp",
+              "RelativeDocumentMoniker": "250429\\main1.cpp",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250429\\250429\\main1.cpp",
+              "RelativeToolTip": "250429\\main1.cpp",
+              "ViewState": "AQIAACQBAAAAAAAAAAAlwCYBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T02:28:13.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250429\\250429\\main.cpp",
+              "RelativeDocumentMoniker": "250429\\main.cpp",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250429\\250429\\main.cpp",
+              "RelativeToolTip": "250429\\main.cpp",
+              "ViewState": "AQIAANEAAAAAAAAAAAAowOAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T01:06:12.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

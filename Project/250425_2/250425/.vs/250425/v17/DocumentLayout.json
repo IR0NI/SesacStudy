@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Study\\SesacStudy\\Project\\250425_2\\250425\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98BEB6BB-609C-495D-B6F5-E2E66583FC63}|250425\\250425.vcxproj|C:\\Study\\SesacStudy\\Project\\250425_2\\250425\\250425\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98BEB6BB-609C-495D-B6F5-E2E66583FC63}|250425\\250425.vcxproj|solutionrelative:250425\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BEB6BB-609C-495D-B6F5-E2E66583FC63}|250425\\250425.vcxproj|C:\\Study\\SesacStudy\\Project\\250425_2\\250425\\250425\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98BEB6BB-609C-495D-B6F5-E2E66583FC63}|250425\\250425.vcxproj|solutionrelative:250425\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BEB6BB-609C-495D-B6F5-E2E66583FC63}|250425\\250425.vcxproj|C:\\Study\\SesacStudy\\Project\\250425_2\\250425\\250425\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98BEB6BB-609C-495D-B6F5-E2E66583FC63}|250425\\250425.vcxproj|solutionrelative:250425\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main2.cpp",
+              "DocumentMoniker": "C:\\Study\\SesacStudy\\Project\\250425_2\\250425\\250425\\main2.cpp",
+              "RelativeDocumentMoniker": "250425\\main2.cpp",
+              "ToolTip": "C:\\Study\\SesacStudy\\Project\\250425_2\\250425\\250425\\main2.cpp",
+              "RelativeToolTip": "250425\\main2.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T06:41:02.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main1.cpp",
+              "DocumentMoniker": "C:\\Study\\SesacStudy\\Project\\250425_2\\250425\\250425\\main1.cpp",
+              "RelativeDocumentMoniker": "250425\\main1.cpp",
+              "ToolTip": "C:\\Study\\SesacStudy\\Project\\250425_2\\250425\\250425\\main1.cpp",
+              "RelativeToolTip": "250425\\main1.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwDAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T05:13:50.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Study\\SesacStudy\\Project\\250425_2\\250425\\250425\\main.cpp",
+              "RelativeDocumentMoniker": "250425\\main.cpp",
+              "ToolTip": "C:\\Study\\SesacStudy\\Project\\250425_2\\250425\\250425\\main.cpp",
+              "RelativeToolTip": "250425\\main.cpp",
+              "ViewState": "AQIAACEBAAAAAAAAAAAAACUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T01:08:04.502Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

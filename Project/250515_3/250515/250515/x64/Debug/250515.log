@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\Lecture\Sac7\C\250515\250515\main.cpp(247,9): error C3622: 'CEmpty': 'abstract'(으)로 선언된 클래스를 인스턴스화할 수 없습니다.
+E:\Lecture\Sac7\C\250515\250515\main.cpp(267,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+E:\Lecture\Sac7\C\250515\250515\main.cpp(268,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+E:\Lecture\Sac7\C\250515\250515\main.cpp(298,13): warning C4311: '형식 캐스트': 'CChild1 *'에서 'int'(으)로 포인터가 잘립니다.
+E:\Lecture\Sac7\C\250515\250515\main.cpp(298,13): warning C4302: '형식 캐스트': 'CChild1 *'에서 'int'(으)로 잘립니다.

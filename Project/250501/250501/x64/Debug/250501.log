@@ -1,0 +1,4 @@
+﻿  main2.cpp
+E:\Lecture\Sac7\C\250501\250501\main2.cpp(64,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+E:\Lecture\Sac7\C\250501\250501\main2.cpp(66,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  250501.vcxproj -> E:\Lecture\Sac7\C\250501\x64\Debug\250501.exe

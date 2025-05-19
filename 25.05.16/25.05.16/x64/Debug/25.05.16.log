@@ -1,0 +1,23 @@
+﻿  main1.cpp
+C:\Study\SesacStudy\25.05.16\25.05.16\main1.cpp(55,3): error C2660: 'Cmonster::operator new': 함수는 2개의 인수를 사용하지 않습니다.
+      C:\Study\SesacStudy\25.05.16\25.05.16\main1.cpp(90,15):
+      'Cmonster::operator new' 선언을 참조하십시오.
+      C:\Study\SesacStudy\25.05.16\25.05.16\main1.cpp(55,3):
+      인수 목록 '(unsigned __int64, T *)'을(를) 일치시키는 동안
+          with
+          [
+              T=Cmonster
+          ]
+      C:\Study\SesacStudy\25.05.16\25.05.16\main1.cpp(55,3):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Study\SesacStudy\25.05.16\25.05.16\main1.cpp(92,10):
+          컴파일되는 클래스 템플릿 인스턴스화 'CMemoryPool<Cmonster,1024>'에 대한 참조를 확인하세요.
+          C:\Study\SesacStudy\25.05.16\25.05.16\main1.cpp(39,5):
+          클래스 템플릿 멤버 함수 'T *CMemoryPool<T,1024>::Alloc(void)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              T=Cmonster
+          ]
+              C:\Study\SesacStudy\25.05.16\25.05.16\main1.cpp(92,3):
+              'Cmonster::operator new'에서 'CMemoryPool<Cmonster,1024>::Alloc'에 대한 첫 번째 참조를 확인하세요.
+  

@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lecture\\Sac7\\C\\250502\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|E:\\Lecture\\Sac7\\C\\250502\\250502\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|solutionrelative:250502\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|E:\\Lecture\\Sac7\\C\\250502\\250502\\Editor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|solutionrelative:250502\\Editor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|E:\\Lecture\\Sac7\\C\\250502\\250502\\GameInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|solutionrelative:250502\\GameInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|E:\\Lecture\\Sac7\\C\\250502\\250502\\main4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|solutionrelative:250502\\main4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|E:\\Lecture\\Sac7\\C\\250502\\250502\\TestFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|solutionrelative:250502\\TestFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|E:\\Lecture\\Sac7\\C\\250502\\250502\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|solutionrelative:250502\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|E:\\Lecture\\Sac7\\C\\250502\\250502\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|solutionrelative:250502\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|E:\\Lecture\\Sac7\\C\\250502\\250502\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|solutionrelative:250502\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|E:\\Lecture\\Sac7\\C\\250502\\250502\\Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|solutionrelative:250502\\Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|E:\\Lecture\\Sac7\\C\\250502\\250502\\TestFunction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|solutionrelative:250502\\TestFunction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|E:\\Lecture\\Sac7\\C\\250502\\250502\\main3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|solutionrelative:250502\\main3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|E:\\Lecture\\Sac7\\C\\250502\\250502\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|solutionrelative:250502\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|E:\\Lecture\\Sac7\\C\\250502\\250502\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0CE19D-BBE0-4B6E-8CB1-4CB797734C90}|250502\\250502.vcxproj|solutionrelative:250502\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editor.cpp",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250502\\250502\\Editor.cpp",
+              "RelativeDocumentMoniker": "250502\\Editor.cpp",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250502\\250502\\Editor.cpp",
+              "RelativeToolTip": "250502\\Editor.cpp",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAiwEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T06:41:27.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Battle.cpp",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250502\\250502\\Battle.cpp",
+              "RelativeDocumentMoniker": "250502\\Battle.cpp",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250502\\250502\\Battle.cpp",
+              "RelativeToolTip": "250502\\Battle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T05:50:37.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Battle.h",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250502\\250502\\Battle.h",
+              "RelativeDocumentMoniker": "250502\\Battle.h",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250502\\250502\\Battle.h",
+              "RelativeToolTip": "250502\\Battle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T05:50:05.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250502\\250502\\GameManager.cpp",
+              "RelativeDocumentMoniker": "250502\\GameManager.cpp",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250502\\250502\\GameManager.cpp",
+              "RelativeToolTip": "250502\\GameManager.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvy0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T05:36:36.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250502\\250502\\GameManager.h",
+              "RelativeDocumentMoniker": "250502\\GameManager.h",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250502\\250502\\GameManager.h",
+              "RelativeToolTip": "250502\\GameManager.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T05:35:56.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestFunction.cpp",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250502\\250502\\TestFunction.cpp",
+              "RelativeDocumentMoniker": "250502\\TestFunction.cpp",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250502\\250502\\TestFunction.cpp",
+              "RelativeToolTip": "250502\\TestFunction.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T05:23:06.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestFunction.h",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250502\\250502\\TestFunction.h",
+              "RelativeDocumentMoniker": "250502\\TestFunction.h",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250502\\250502\\TestFunction.h",
+              "RelativeToolTip": "250502\\TestFunction.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T05:21:31.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameInfo.h",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250502\\250502\\GameInfo.h",
+              "RelativeDocumentMoniker": "250502\\GameInfo.h",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250502\\250502\\GameInfo.h",
+              "RelativeToolTip": "250502\\GameInfo.h",
+              "ViewState": "AQIAADgAAAAAAAAAAADwvz4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T05:13:23.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main4.cpp",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250502\\250502\\main4.cpp",
+              "RelativeDocumentMoniker": "250502\\main4.cpp",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250502\\250502\\main4.cpp",
+              "RelativeToolTip": "250502\\main4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T05:10:09.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main3.cpp",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250502\\250502\\main3.cpp",
+              "RelativeDocumentMoniker": "250502\\main3.cpp",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250502\\250502\\main3.cpp",
+              "RelativeToolTip": "250502\\main3.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T02:41:58.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main2.cpp",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250502\\250502\\main2.cpp",
+              "RelativeDocumentMoniker": "250502\\main2.cpp",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250502\\250502\\main2.cpp",
+              "RelativeToolTip": "250502\\main2.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvxsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T02:30:58.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "main1.cpp",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250502\\250502\\main1.cpp",
+              "RelativeDocumentMoniker": "250502\\main1.cpp",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250502\\250502\\main1.cpp",
+              "RelativeToolTip": "250502\\main1.cpp",
+              "ViewState": "AQIAAGIAAAAAAAAAAADwv2gAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T02:09:22.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Lecture\\Sac7\\C\\250502\\250502\\main.cpp",
+              "RelativeDocumentMoniker": "250502\\main.cpp",
+              "ToolTip": "E:\\Lecture\\Sac7\\C\\250502\\250502\\main.cpp",
+              "RelativeToolTip": "250502\\main.cpp",
+              "ViewState": "AQIAACkAAAAAAAAAAADwvy8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T00:48:48.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
